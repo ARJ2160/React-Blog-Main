@@ -6,7 +6,8 @@
   "scripts": {
     "client": "npm start --prefix client",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client",
-    "start": "node server.js"
+    "run-client": "cd client && npm run start",
+    "start": "node server.js && run-client"
 },
   "keywords": [],
   "author": "",
