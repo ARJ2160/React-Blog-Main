@@ -1,0 +1,25 @@
+
+@font-face {
+    font-family: 'Lota Grotesque';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/fonts/Los\ Andes\ \ Lota\ Grotesque\ Regular.otf') format('otf');
+}
+@font-face {
+    font-family: 'Lota Grotesque Semi Bold';
+    font-style: normal;
+    font-weight: 500;
+    src: url('/fonts/Los\ Andes\ \ Lota\ Grotesque\ Semi\ Bold.otf') format('otf');
+}
+@font-face {
+    font-family: 'Lota Grotesque Bold';
+    font-style: normal;
+    font-weight: 600;
+    src: url('/fonts/Los\ Andes\ \ Lota\ Grotesque\ Bold.otf') format('otf');
+}
+@font-face {
+    font-family: 'Bahnschrift Light';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/fonts/BAHNSCHRIFT\ 1.TTF') format('ttf');
+}
